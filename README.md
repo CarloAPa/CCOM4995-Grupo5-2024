@@ -14,6 +14,9 @@ Ramón E. Miranda Calderón –
  También puedo decir que amo a los gatos. 
 
 
+
+
+
 # Carlos D. Aparicio Mestra 
 
 [![fotoMia.jpg](https://i.postimg.cc/852V07bn/fotoMia.jpg)](https://postimg.cc/jw49Wdmz)
