@@ -15,11 +15,3 @@ Ramón E. Miranda Calderón –
 
 
 
-
-
-# Carlos D. Aparicio Mestra 
-
-[![fotoMia.jpg](https://i.postimg.cc/852V07bn/fotoMia.jpg)](https://postimg.cc/jw49Wdmz)
- 
-Nací en Medellín, Colombia, en 2004. Actualmente, soy estudiante de tercer año de Ciencias de Cómputo. Estoy en el proceso de decidir en qué rama de la programación quiero especializarme, y hasta ahora, el desarrollo de videojuegos es lo que más me llama la atención. Me gusta mucho la manera en la que se ven algunos juegos como: Zelda: Breath of the Wild, GTA V, y Call of Duty.
-
